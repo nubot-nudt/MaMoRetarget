@@ -1,0 +1,14 @@
+[
+  {
+    "name": "t1",
+    "robot_spec_npz": "worknet/robot_spec_t1.npz",
+    "train_input_dir": "dataset/t1/train/input",
+    "val_input_dir": "dataset/t1/val/input",
+    "train_label_dir": "dataset/t1/train/output",
+    "val_label_dir": "dataset/t1/val/output",
+    "morph_npz": "morph_out/human_morphology_targets_t1.npz",
+    "suffix": "_refine",
+    "weight": 1.0
+  }
+]
+

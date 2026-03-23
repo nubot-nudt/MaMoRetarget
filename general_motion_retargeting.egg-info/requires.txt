@@ -1,0 +1,15 @@
+loop_rate_limiters
+mink
+mujoco
+numpy
+scipy
+qpsolvers[proxqp]
+rich
+tqdm
+opencv-python
+natsort
+psutil
+smplx@ git+https://github.com/vchoutas/smplx
+protobuf
+redis[hiredis]
+imageio[ffmpeg]
